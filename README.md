@@ -5,4 +5,4 @@ This is a desktop only implementation of Adobe XD MARSHMELLO Website Design - Sp
 
 This is not developed to be responsive
 
-Hosted version
+Hosted version:  https://vthompson246.github.io/Marshmellow-Website_Training/
